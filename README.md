@@ -9,5 +9,5 @@ We tried use-context-selector. Even though it's possible to render less than 3 n
 when performing an action, the complexity is still linear because of all the
 selectors that take time to execute.
 If we'd use Zustand or Recoil, we can expect the same result.
-It seems then that a better approach to this problem is to code a tree structure
-editor in VanillaJs without React.
+It seems that a better approach is to code a tree structure editor in VanillaJs
+without React.
