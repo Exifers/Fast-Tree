@@ -1,7 +1,7 @@
 # Summary
 This is an experiment at creating high performance tree structures rendering in React.
 We provide a tree structure that can access any node or its children in O(1). Then we
-must be able to select nodes or duplicate nodes without by triggering a minimal amount
+must be able to select nodes or duplicate nodes without triggering a minimal amount
 of renders.
 
 # Conclusion
